@@ -4,7 +4,7 @@
 //     C1. any p1 which first reaches one of the final value (p1*) will always stay at p1*, i.e. never pass it
 //     C2. when p1* is reached, any p2 will converge to the final value (p2*)
 
-
+// Explanations:
 // C2 constantly holds because the array is already sorted
 // C1 holds , if increasing p1 when p1 + p2 < t and decreasing p2 when p1 + p2 > t
 // Considering the case that p1 passes p1*, i.e. means p1 and p2 forms a number which is larger or smaller than t.
