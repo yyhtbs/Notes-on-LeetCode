@@ -1,2 +1,4 @@
 # Notes-on-LeetCode
-Some notes on leetcode exercise 
+
+Some notes on leetcode exercise
+
